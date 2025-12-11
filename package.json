@@ -1,5 +1,5 @@
 {
-  "homepage": "https://anas1846.github.io/Ecomerce-card-system",
+  "homepage": "https://anas1846.github.io/E-commerce/",
   "name": "callback",
   "private": true,
   "version": "0.0.0",
@@ -8,7 +8,11 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
+
+    
+
     "preview": "vite preview",
+
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
