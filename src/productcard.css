@@ -1,0 +1,17 @@
+.brand img{
+    height: 25rem;
+    width:100%;
+    border-radius: 10px;
+    object-fit: contain;
+}
+.product-button{
+    padding: 15px;
+    border-radius: 10px;
+    font-weight: 600;
+}
+h3{
+    font-size: 30px;
+}
+p{
+    font-size: 25px;
+}

@@ -1,0 +1,29 @@
+.product-heading{
+    padding: 20px;
+    font-size: 3rem;
+}
+
+h1{
+    padding: 0px 20px;
+}
+.grid2{
+     display: flex;
+   
+  flex-wrap: wrap;  
+   gap:40px;
+    padding: 20px;
+}
+.Buttons{
+  padding: 0px 40px;
+  display: flex;
+  gap: 20px;
+  margin-bottom: 30px;
+  margin-top: 20px;
+}
+button{
+  padding: 15px;
+  font-size: 18px;
+  background-color: rgb(226, 226, 226);
+  border: none;
+  border-radius: 5px;
+}

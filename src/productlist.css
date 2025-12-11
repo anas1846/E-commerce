@@ -1,0 +1,11 @@
+.grid{
+     display: flex;
+     justify-content: space-between;
+  flex-wrap: wrap;  
+   gap:40px;
+    padding: 20px;
+    
+}
+.grid>div{
+     width: calc(25% - 60px); 
+}
